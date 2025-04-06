@@ -23,4 +23,8 @@ This project was built as a learning exercise to practice front-end web developm
 2. Open the `index.html` file in your browser
 3. Enjoy the Netflix-like experience!
 
+
+![image](https://github.com/user-attachments/assets/a485780b-5222-4f49-a37a-72ed0c4e2fa6)
+
+
 ---
