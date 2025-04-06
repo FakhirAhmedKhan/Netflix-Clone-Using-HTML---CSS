@@ -1,4 +1,3 @@
-Sure! Here's a simple and clean **README** or **About** text for your project **Netflix-Clone-Using-HTML---CSS**:
 
 ---
 
