@@ -24,5 +24,3 @@ This project was built as a learning exercise to practice front-end web developm
 3. Enjoy the Netflix-like experience!
 
 ---
-
-Let me know if you'd like to add your name, a live preview link, or more features!
